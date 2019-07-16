@@ -17,7 +17,6 @@ public class Smart_Budget_Controller {
     	
     	System.out.println("starting app");
         Smart_Budget_Model model = new Smart_Budget_Model();
-       
         model.Smart_Budget_Controller();
     
     }
